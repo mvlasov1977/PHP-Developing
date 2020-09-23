@@ -1,0 +1,11 @@
+{
+    "name": "maxv/hexlet-php",
+    "description": "First PHP Project",
+    "authors": [
+        {
+            "name": "Mac",
+            "email": "mvlasov1977@gmail.com"
+        }
+    ],
+    "require": {}
+}
