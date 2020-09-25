@@ -1,6 +1,11 @@
 {
     "name": "maxv/hexlet-php",
     "description": "First PHP Project",
+    "autoload": {
+        "files": [
+            "src/Runner.php"
+        ]
+    },
     "authors": [
         {
             "name": "Mac",
